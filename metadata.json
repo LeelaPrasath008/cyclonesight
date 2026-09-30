@@ -1,0 +1,6 @@
+{
+  "name": "CycloneSight",
+  "description": "AI-powered cyclone impact and infrastructure vulnerability forecaster for the Bay of Bengal and coastal APAC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
